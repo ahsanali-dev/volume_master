@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Speaker body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,9L7,9L7,15L3,15L3,9ZM7,9L11,5L11,19L7,15Z"/>
+
+    <!-- Sound wave 1 - small -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M13.5,8.5 C14.8,9.8 14.8,14.2 13.5,15.5"/>
+
+    <!-- Sound wave 2 - medium -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.75"
+        android:pathData="M16,6 C18.2,8.2 18.2,15.8 16,18"/>
+
+    <!-- Sound wave 3 - large -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeAlpha="0.5"
+        android:pathData="M18.5,3.5 C21.8,6.8 21.8,17.2 18.5,20.5"/>
+
+</vector>
